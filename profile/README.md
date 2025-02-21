@@ -2,6 +2,7 @@
 ![COOKIE CLICKER](https://github.com/user-attachments/assets/584b5304-faee-4e76-ac20-9ca07f3e5f11)
 ---
 ## Play Now:
+
 ➡️ Cookie Clicker 2 – Official Website
 ➡️ Alternative Unblocked Version | cookieclicker.ee
 ➡️ Steam Version (Coming Soon)
