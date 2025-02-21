@@ -106,9 +106,9 @@ If Cookie Clicker 2 is blocked at school or work, try these methods:
 
 3. Download the Mobile or Steam Version (When available)
 
-   📱 [Android](https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker&hl=en)
+📱 [Android](https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker&hl=en)
 
-   🎮 [Steam Version](https://store.steampowered.com/app/1454400/Cookie_Clicker/)
+🎮 [Steam Version](https://store.steampowered.com/app/1454400/Cookie_Clicker/)
 
 ---
 ## 🏆 Best Strategies to Earn More Cookies
