@@ -1,7 +1,7 @@
 # Cookie Clicker 2: The Ultimate Guide to Infinite Cookie Baking!🍪
-![COOKIE CLICKER](https://github.com/user-attachments/assets/584b5304-faee-4e76-ac20-9ca07f3e5f11)
+![COOKIE CLICKER](https://github.com/user-attachments/assets/584b5304-faee-4e76-ac20-9ca07f3e5f11)](https://cookieclicker.ee/)
 ---
-Play Now:
+### Play Now:
 
 ➡️ [Cookie Clicker 2](https://cookieclicker.ee) – Official Website
 
