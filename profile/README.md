@@ -44,7 +44,7 @@ Cookie Clicker 2 is beloved for its addictive gameplay and endless growth mechan
 
 Buildings generate cookies passively and increase your overall cookies per second (CPS).
 
-Key Buildings:
+### Key Buildings:
 
 🏠 Cursors – Automate clicking.
 
@@ -60,8 +60,7 @@ Key Buildings:
 
 🕳️ Prisms – Harness light energy to bake cookies.
 
----
-🔥 Important Upgrades:
+### Important Upgrades:
 
 ✔️ Milk & Kitten Upgrades – Boost production massively.
 
