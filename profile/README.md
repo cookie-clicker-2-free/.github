@@ -31,18 +31,16 @@ Cookie Clicker 2 is beloved for its addictive gameplay and endless growth mechan
 ✔️ No pay-to-win mechanics – 100% free-to-play!
 
 ✔️ Cross-platform accessibility – Play on PC, mobile, or web.
+
 ---
 ## 🎮 How to Play Cookie Clicker 2
 
-Click the Big Cookie – Generate cookies manually at first.
-
-Buy Buildings & Upgrades – Automate cookie production.
-
-Unlock Prestige Mode – Reset for permanent bonuses.
-
-Discover Mini-Games & Hidden Features – Optimize production.
-
-🏗️ Buildings & Upgrades in Cookie Clicker 2
+1. Click the Big Cookie – Generate cookies manually at first.
+2. Buy Buildings & Upgrades – Automate cookie production.
+3. Unlock Prestige Mode – Reset for permanent bonuses.
+4. Discover Mini-Games & Hidden Features – Optimize production.
+---
+## 🏗️ Buildings & Upgrades in Cookie Clicker 2
 
 Buildings generate cookies passively and increase your overall cookies per second (CPS).
 
