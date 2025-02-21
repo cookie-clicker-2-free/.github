@@ -3,9 +3,14 @@
 ---
 Play Now:
 
-➡️ Cookie Clicker 2 – Official Website
-➡️ Alternative Unblocked Version | cookieclicker2.github.io
-➡️ Steam Version (Coming Soon)
+➡️ [Cookie Clicker 2](https://cookieclicker.ee) – Official Website
+
+➡️ [Alternative Unblocked Version](https://cookieclicker.me) | [cookieclicker.app](https://cookieclicker.app)
+
+➡️ [GitHub Unblocked Versions](https://cookieclickernew.github.io) | [cookieclickerorteil.github.io](https://cookieclickerorteil.github.io)
+
+➡️ [Steam Version](https://store.steampowered.com/app/1454400/Cookie_Clicker/)
+
 ---
 ## 🍪 What is Cookie Clicker 2?
 
