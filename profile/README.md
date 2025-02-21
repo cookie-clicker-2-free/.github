@@ -17,12 +17,16 @@ Play Now:
 Cookie Clicker 2 is the ultimate idle clicker game where players bake cookies by clicking and automating production. This sequel expands on the original game with new buildings, enhanced mechanics, powerful upgrades, and more strategic depth.
 
 With infinite progression, achievements, and prestige rewards, Cookie Clicker 2 keeps you coming back for more!
-
-⭐ Why is Cookie Clicker 2 So Popular?
+---
+## ⭐ Why is Cookie Clicker 2 So Popular?
 
 Cookie Clicker 2 is beloved for its addictive gameplay and endless growth mechanics. Players enjoy:
 
-✔️ Simple yet engaging clicker mechanics.✔️ Idle & automation gameplay – Bake cookies even while offline!✔️ Hundreds of upgrades to boost production.✔️ No pay-to-win mechanics – 100% free-to-play!✔️ Cross-platform accessibility – Play on PC, mobile, or web.
+✔️ Simple yet engaging clicker mechanics.
+✔️ Idle & automation gameplay – Bake cookies even while offline!
+✔️ Hundreds of upgrades to boost production.
+✔️ No pay-to-win mechanics – 100% free-to-play!
+✔️ Cross-platform accessibility – Play on PC, mobile, or web.
 
 🎮 How to Play Cookie Clicker 2
 
