@@ -60,7 +60,7 @@ Key Buildings:
 
 🕳️ Prisms – Harness light energy to bake cookies.
 
-
+---
 🔥 Important Upgrades:
 
 ✔️ Milk & Kitten Upgrades – Boost production massively.
