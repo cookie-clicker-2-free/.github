@@ -105,6 +105,7 @@ If Cookie Clicker 2 is blocked at school or work, try these methods:
 ✅ [GitHub Versions](https://cookieclickerorteil.github.io)
 
 2.Use a VPN or Proxy: A VPN helps bypass network restrictions.
+
 3.Download the Mobile or Steam Version (When available)
 
    📱 [Android](https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker&hl=en)
