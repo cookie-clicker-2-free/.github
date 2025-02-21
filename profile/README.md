@@ -96,16 +96,15 @@ Why Prestige?
 ## 🔓 How to Play Cookie Clicker 2 Unblocked
 
 If Cookie Clicker 2 is blocked at school or work, try these methods:
-
-1.Play on trusted unblocked game sites
+1. Play on trusted unblocked game sites
 
 ✅ [CookieClicker.ee](https://cookieclicker.ee/) (Official)
 
 ✅ [GitHub Versions](https://cookieclickerorteil.github.io)
 
-2.Use a VPN or Proxy: A VPN helps bypass network restrictions.
+2. Use a VPN or Proxy: A VPN helps bypass network restrictions.
 
-3.Download the Mobile or Steam Version (When available)
+3. Download the Mobile or Steam Version (When available)
 
    📱 [Android](https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker&hl=en)
 
