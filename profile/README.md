@@ -4,7 +4,9 @@
 ## Play Now:
 
 ➡️ Cookie Clicker 2 – Official Website
+
 ➡️ Alternative Unblocked Version | cookieclicker.ee
+
 ➡️ Steam Version (Coming Soon)
 ---
 ## 🍪 What is Cookie Clicker 2?
