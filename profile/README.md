@@ -17,6 +17,7 @@
 [Cookie Clicker 2](https://cookieclicker.ee/) is the ultimate idle clicker game where players bake cookies by clicking and automating production. This sequel expands on the original game with new buildings, enhanced mechanics, powerful upgrades, and more strategic depth.
 
 With infinite progression, achievements, and prestige rewards, Cookie Clicker 2 keeps you coming back for more!
+
 ---
 ## ⭐ Why is Cookie Clicker 2 So Popular?
 
