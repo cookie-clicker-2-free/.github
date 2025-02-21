@@ -1,4 +1,4 @@
-# Cookie Clicker 2: The Ultimate Guide to Infinite Cookie Baking!🍪🔥
+# Cookie Clicker 2: The Ultimate Guide to Infinite Cookie Baking!🍪
 ![COOKIE CLICKER](https://github.com/user-attachments/assets/584b5304-faee-4e76-ac20-9ca07f3e5f11)
 ---
 Play Now:
@@ -60,6 +60,7 @@ Key Buildings:
 
 🕳️ Prisms – Harness light energy to bake cookies.
 
+
 🔥 Important Upgrades:
 
 ✔️ Milk & Kitten Upgrades – Boost production massively.
@@ -67,6 +68,7 @@ Key Buildings:
 ✔️ Heavenly Upgrades – Permanent perks from ascension.
 
 ✔️ Efficiency Boosts – Optimize production & idle gains.
+
 ---
 ## ✨ Golden Cookies & Special Effects
 
