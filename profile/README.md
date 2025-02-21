@@ -36,8 +36,11 @@ Cookie Clicker 2 is beloved for its addictive gameplay and endless growth mechan
 ## 🎮 How to Play Cookie Clicker 2
 
 1. Click the Big Cookie – Generate cookies manually at first.
+  
 2. Buy Buildings & Upgrades – Automate cookie production.
+   
 3. Unlock Prestige Mode – Reset for permanent bonuses.
+   
 4. Discover Mini-Games & Hidden Features – Optimize production.
 ---
 ## 🏗️ Buildings & Upgrades in Cookie Clicker 2
