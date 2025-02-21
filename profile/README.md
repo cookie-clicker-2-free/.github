@@ -78,33 +78,55 @@ Golden Cookies randomly appear and provide temporary, game-changing buffs.
 
 🔥 Click Frenzy – Increases clicking power 777x for 10 seconds!
 
-🔄 Prestige & Ascension System
+---
+## 🔄 Prestige & Ascension System
 
 Prestige lets you reset your progress to earn permanent bonuses that significantly increase future earnings.
 
 Why Prestige?
 
-✅ Heavenly Chips – Increase CPS permanently.✅ Legacy Upgrades – Carry special boosts across resets.✅ Accelerated Growth – Each run becomes more powerful than before.
+✅ Heavenly Chips – Increase CPS permanently.
 
-🔓 How to Play Cookie Clicker 2 Unblocked
+✅ Legacy Upgrades – Carry special boosts across resets.
+
+✅ Accelerated Growth – Each run becomes more powerful than before.
+
+---
+## 🔓 How to Play Cookie Clicker 2 Unblocked
 
 If Cookie Clicker 2 is blocked at school or work, try these methods:
 
-Play on trusted unblocked game sites✅ CookieClicker.ee (Official)✅ GitHub Versions
+1.Play on trusted unblocked game sites
+✅ [CookieClicker.ee](https://cookieclicker.ee/) (Official)
 
-Use a VPN or Proxy
+✅ [GitHub Versions](https://cookieclickerorteil.github.io)
 
+2.Use a VPN or Proxy
 A VPN helps bypass network restrictions.
 
-Download the Mobile or Steam Version (When available)📱 Android & iOS (Coming Soon)🎮 Steam Version (Planned Release)
+3. Download the Mobile or Steam Version (When available)
 
-🏆 Best Strategies to Earn More Cookies
+   📱 [Android](https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker&hl=en)
+
+   🎮 [Steam Version](https://store.steampowered.com/app/1454400/Cookie_Clicker/)
+
+---
+## 🏆 Best Strategies to Earn More Cookies
 
 To maximize your cookie production, follow these expert tips:
 
-✔️ Automate early – Invest in cursors & grandmas first.✔️ Prioritize efficiency upgrades – Some have exponential benefits.✔️ Use Golden Cookies smartly – Time their boosts for maximum output.✔️ Prestige wisely – Reset at the right time for massive multipliers.✔️ Stay active for max rewards – Clicking boosts production speed.
+✔️ Automate early – Invest in cursors & grandmas first.
 
-📜 Mini-Games & Hidden Features
+✔️ Prioritize efficiency upgrades – Some have exponential benefits.
+
+✔️ Use Golden Cookies smartly – Time their boosts for maximum output.
+
+✔️ Prestige wisely – Reset at the right time for massive multipliers.
+
+✔️ Stay active for max rewards – Clicking boosts production speed.
+
+---
+## 📜 Mini-Games & Hidden Features
 
 Cookie Clicker 2 includes mini-games that provide unique bonuses. Some examples:
 
@@ -114,29 +136,37 @@ Cookie Clicker 2 includes mini-games that provide unique bonuses. Some examples:
 
 🎲 Random Events – Special bonuses that appear periodically.
 
-🏅 Achievements & Milestones
+---
+## 🏅 Achievements & Milestones
 
 Unlock hundreds of achievements that provide extra production bonuses. Can you collect them all?
 
-⚠️ Is Cookie Clicker 2 Safe to Play?
+---
+## ⚠️ Is Cookie Clicker 2 Safe to Play?
 
 Yes! Cookie Clicker 2 is a safe and fun game for all ages. However:
 
-Play only on trusted sites like CookieClicker.ee.
+1. Play only on trusted sites like [CookieClicker.ee](https://cookieclicker.ee/).
 
-Avoid unofficial downloads to prevent malware risks.
+2. Avoid unofficial downloads to prevent malware risks.
 
-Use an ad-blocker if playing on third-party sites.
+3. Use an ad-blocker if playing on third-party sites.
 
-🔗 Where to Play Cookie Clicker 2?
+---
+## 🔗 Where to Play Cookie Clicker 2?
 
-➡️ Cookie Clicker 2 – Official Website
-➡️ GitHub Unblocked Versions (cookieclicker2.github.io)
-➡️ Steam (Coming Soon)
+➡️ [Cookie Clicker 2](https://cookieclicker.ee/)
 
-🎯 Final Thoughts
+➡️ [GitHub Unblocked Versions](https://cookieclickerorteil.github.io)
 
-Cookie Clicker 2 is an addictive, fun, and infinitely rewarding game. Whether you're clicking for fun, automating production, or competing for leaderboard dominance, it's the perfect idle game for casual and hardcore players alike.
+➡️ [Steam](https://store.steampowered.com/app/1454400/Cookie_Clicker/) 
 
-🏆 Ready to dominate the cookie world?👉 Play Cookie Clicker 2 Now! 🍪🔥
+---
+## 🎯 Final Thoughts
+
+[Cookie Clicker 2](https://cookieclicker.ee/) is an addictive, fun, and infinitely rewarding game. Whether you're clicking for fun, automating production, or competing for leaderboard dominance, it's the perfect idle game for casual and hardcore players alike.
+
+🏆 Ready to dominate the cookie world?
+
+👉 [Play Cookie Clicker 2 Now!](https://cookieclicker.ee/) 🍪🔥
 
