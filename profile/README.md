@@ -14,7 +14,7 @@ Play Now:
 ---
 ## 🍪 What is Cookie Clicker 2?
 
-Cookie Clicker 2 is the ultimate idle clicker game where players bake cookies by clicking and automating production. This sequel expands on the original game with new buildings, enhanced mechanics, powerful upgrades, and more strategic depth.
+[Cookie Clicker 2](https://cookieclicker.ee/) is the ultimate idle clicker game where players bake cookies by clicking and automating production. This sequel expands on the original game with new buildings, enhanced mechanics, powerful upgrades, and more strategic depth.
 
 With infinite progression, achievements, and prestige rewards, Cookie Clicker 2 keeps you coming back for more!
 ---
@@ -23,12 +23,16 @@ With infinite progression, achievements, and prestige rewards, Cookie Clicker 2 
 Cookie Clicker 2 is beloved for its addictive gameplay and endless growth mechanics. Players enjoy:
 
 ✔️ Simple yet engaging clicker mechanics.
-✔️ Idle & automation gameplay – Bake cookies even while offline!
-✔️ Hundreds of upgrades to boost production.
-✔️ No pay-to-win mechanics – 100% free-to-play!
-✔️ Cross-platform accessibility – Play on PC, mobile, or web.
 
-🎮 How to Play Cookie Clicker 2
+✔️ Idle & automation gameplay – Bake cookies even while offline!
+
+✔️ Hundreds of upgrades to boost production.
+
+✔️ No pay-to-win mechanics – 100% free-to-play!
+
+✔️ Cross-platform accessibility – Play on PC, mobile, or web.
+---
+## 🎮 How to Play Cookie Clicker 2
 
 Click the Big Cookie – Generate cookies manually at first.
 
@@ -45,22 +49,36 @@ Buildings generate cookies passively and increase your overall cookies per secon
 Key Buildings:
 
 🏠 Cursors – Automate clicking.
+
 👵 Grandmas – Your cookie-baking MVPs!
+
 🌾 Farms – Harvest cookies from the land.
+
 🏭 Factories – Mass-produce cookies.
+
 🔮 Wizard Towers – Conjure cookies with magic.
+
 🌌 Portals – Pull cookies from alternate dimensions.
+
 🕳️ Prisms – Harness light energy to bake cookies.
 
 🔥 Important Upgrades:
 
-✔️ Milk & Kitten Upgrades – Boost production massively.✔️ Heavenly Upgrades – Permanent perks from ascension.✔️ Efficiency Boosts – Optimize production & idle gains.
+✔️ Milk & Kitten Upgrades – Boost production massively.
 
-✨ Golden Cookies & Special Effects
+✔️ Heavenly Upgrades – Permanent perks from ascension.
+
+✔️ Efficiency Boosts – Optimize production & idle gains.
+---
+## ✨ Golden Cookies & Special Effects
 
 Golden Cookies randomly appear and provide temporary, game-changing buffs.
 
-⭐ Frenzy – Boosts CPS by 7x.⚡ Lucky! – Grants a huge cookie bonus.🔥 Click Frenzy – Increases clicking power 777x for 10 seconds!
+⭐ Frenzy – Boosts CPS by 7x.
+
+⚡ Lucky! – Grants a huge cookie bonus.
+
+🔥 Click Frenzy – Increases clicking power 777x for 10 seconds!
 
 🔄 Prestige & Ascension System
 
